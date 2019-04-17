@@ -1,2 +1,3 @@
 # llz
-属于个人的公共仓库
+#！/usr/bin/python
+print "hello world"
